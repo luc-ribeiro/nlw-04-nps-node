@@ -1,16 +1,20 @@
 <h1 align="center">
 Next Level Week #04 - NPS
 </h1>
+
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/nlw-04-nps-node/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 <br>
 
-## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #04 da Rocketseat.
+## 💻 Project
+This project was created during Rocketseat's Next Level Week #04 event.
 
-O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
+NPS-NLW is an application that calculates a company's NPS. It includes user registration, survey registration, sending emails to users to respond to satisfaction surveys, and calculating the NPS.
 
-Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
+This project was developed during the NodeJS track in the fourth edition of NLW. We learned about APIs, how to start a project using TypeScript and Express for route management, TypeORM for data manipulation, automated testing, and email sending.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - **NodeJS**
 - **TypeScript**
@@ -24,42 +28,36 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ![banner](https://github.com/luc-ribeiro/nlw-04-node-nps/blob/master/design/mockup.png)
 
-## 🔶 Diagrama
+## 🔶 Diagram
 
-<img src="design/diagram.png" alt="Diagrama da aplicação" />
+<img src="design/diagram.png" alt="Application diagram" />
 
-## :page_facing_up: Como utilizar
+## :page_facing_up: How to use
 
-
-Faça um clone deste repositório:
+Clone this repository:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/nlw-04-node-nps.git
+  $ git clone https://github.com/luc-ribeiro/nlw-04-nps-node.git
 ```
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Execute o comando:
+Run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm run dev
 
-  # com yarn
+  # with yarn
   $ yarn dev
 ```
 
-Acesse o projeto em `localhost:3333`
-
-
-## :memo: License
-
-Copyright © 2020 Lucas Ribeiro / Rocketseat
+Access the project at `localhost:3333`
