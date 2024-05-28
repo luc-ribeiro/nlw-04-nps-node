@@ -8,8 +8,6 @@ Next Level Week #04 - NPS
 <br>
 
 ## 💻 Project
-This project was created during Rocketseat's Next Level Week #04 event.
-
 NPS-NLW is an application that calculates a company's NPS. It includes user registration, survey registration, sending emails to users to respond to satisfaction surveys, and calculating the NPS.
 
 This project was developed during the NodeJS track in the fourth edition of NLW. We learned about APIs, how to start a project using TypeScript and Express for route management, TypeORM for data manipulation, automated testing, and email sending.
